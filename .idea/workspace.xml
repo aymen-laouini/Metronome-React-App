@@ -1,18 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="067bd6ff-7875-42c4-ad45-8cea24e156d5" name="Default Changelist" comment="" />
+    <list default="true" id="067bd6ff-7875-42c4-ad45-8cea24e156d5" name="Default Changelist" comment="Metronome ready !">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Writing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metronome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metronome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metronome.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/steps.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="untitled" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XAD0Z8iJV0OLgJpzAgbYEqFyUR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="C:/Program Files/nodejs/node.exe" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -24,8 +119,75 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580479784681</updated>
-      <workItem from="1580479794064" duration="239000" />
+      <workItem from="1580479794064" duration="6978000" />
+      <workItem from="1580917408320" duration="2858000" />
+      <workItem from="1580938861418" duration="1316000" />
+      <workItem from="1581106090886" duration="2178000" />
+      <workItem from="1581613317298" duration="10113000" />
+      <workItem from="1581696525259" duration="7535000" />
+      <workItem from="1581776136212" duration="4739000" />
+      <workItem from="1581800320038" duration="3051000" />
+      <workItem from="1581880412286" duration="4107000" />
+      <workItem from="1582294638723" duration="6598000" />
+      <workItem from="1582309598108" duration="9707000" />
+      <workItem from="1582335348701" duration="5553000" />
+      <workItem from="1582470258868" duration="824000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Metronome ready !" />
+    <option name="LAST_COMMIT_MESSAGE" value="Metronome ready !" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1032" y="179" key="#Deployment" timestamp="1582369002315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="179" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1582369002315" />
+    <state x="1032" y="179" key="#ESLint" timestamp="1581716632477">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="179" key="#ESLint/0.0.1920.1040@0.0.1920.1040" timestamp="1581716632477" />
+    <state x="1032" y="179" key="#Inspections" timestamp="1581107079074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="179" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1581107079074" />
+    <state x="1065" y="115" key="CommitChangelistDialog2" timestamp="1582369014742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1065" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582369014742" />
+    <state width="936" height="272" key="GridCell.Tab.0.bottom" timestamp="1582407419871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582407419871" />
+    <state width="936" height="272" key="GridCell.Tab.0.center" timestamp="1582407419871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="272" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582407419871" />
+    <state width="936" height="272" key="GridCell.Tab.0.left" timestamp="1582407419871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="272" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582407419871" />
+    <state width="936" height="272" key="GridCell.Tab.0.right" timestamp="1582407419871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="272" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582407419871" />
   </component>
 </project>
