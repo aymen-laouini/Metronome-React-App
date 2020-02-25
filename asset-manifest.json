@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/aymen-laouini/Metronome-React-App/static/css/main.a43a93e3.chunk.css",
+    "main.js": "/aymen-laouini/Metronome-React-App/static/js/main.f10ac438.chunk.js",
+    "main.js.map": "/aymen-laouini/Metronome-React-App/static/js/main.f10ac438.chunk.js.map",
+    "runtime-main.js": "/aymen-laouini/Metronome-React-App/static/js/runtime-main.ea79cc44.js",
+    "runtime-main.js.map": "/aymen-laouini/Metronome-React-App/static/js/runtime-main.ea79cc44.js.map",
+    "static/js/2.eb3d0d7e.chunk.js": "/aymen-laouini/Metronome-React-App/static/js/2.eb3d0d7e.chunk.js",
+    "static/js/2.eb3d0d7e.chunk.js.map": "/aymen-laouini/Metronome-React-App/static/js/2.eb3d0d7e.chunk.js.map",
+    "index.html": "/aymen-laouini/Metronome-React-App/index.html",
+    "precache-manifest.488215c1d4a908551ddefd221288990c.js": "/aymen-laouini/Metronome-React-App/precache-manifest.488215c1d4a908551ddefd221288990c.js",
+    "service-worker.js": "/aymen-laouini/Metronome-React-App/service-worker.js",
+    "static/css/main.a43a93e3.chunk.css.map": "/aymen-laouini/Metronome-React-App/static/css/main.a43a93e3.chunk.css.map",
+    "static/js/2.eb3d0d7e.chunk.js.LICENSE.txt": "/aymen-laouini/Metronome-React-App/static/js/2.eb3d0d7e.chunk.js.LICENSE.txt",
+    "static/media/Metronome.css": "/aymen-laouini/Metronome-React-App/static/media/background.7db02e6c.jpg",
+    "static/media/metronome.mp3": "/aymen-laouini/Metronome-React-App/static/media/metronome.9db71d16.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea79cc44.js",
+    "static/js/2.eb3d0d7e.chunk.js",
+    "static/css/main.a43a93e3.chunk.css",
+    "static/js/main.f10ac438.chunk.js"
+  ]
+}
