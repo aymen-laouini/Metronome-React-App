@@ -20,7 +20,7 @@ handleChange (bpm) {
     this.setState({bpm})
     const click = document.getElementsByClassName("audio-el")[0]
     click.playbackRate=this.state.bpm/110
-    click.play()     //Changes bpm while playing
+        //Changes bpm while playing
 }
 
 

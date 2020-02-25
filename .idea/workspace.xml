@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="067bd6ff-7875-42c4-ad45-8cea24e156d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Metronome.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Metronome.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Metronome.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Metronome.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
