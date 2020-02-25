@@ -19,7 +19,8 @@ constructor(props) {
 handleChange (bpm) {
     this.setState({bpm})
     const click = document.getElementsByClassName("audio-el")[0]
-    click.load()            //Stops the metronome when user changes bpm
+    click.playbackRate=this.state.bpm/110
+    click.play()     //Changes bpm while playing
 }
 
 

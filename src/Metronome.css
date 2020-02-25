@@ -15,7 +15,7 @@ margin-top: 16em;
 
     size: auto;
     padding: 0.5em 1em;
-    opacity: 70%;
+    opacity: 0.7;
     transition: transform 0.3s ease-out, box-shadow 0.3s ease-out;
 }
 
@@ -38,7 +38,7 @@ margin-top: 16em;
     font-size: 100px;
     margin-bottom: 10px;
     color: white;
-    opacity: 70%;
+    opacity: 0.7;
     box-shadow: 5px 10px black;
 
 
@@ -47,7 +47,7 @@ margin-top: 16em;
 .bpm-slider input {
     width: 50%;
     margin-top: 50px;
-    opacity:70%;
+    opacity:0.7;
 
 }
 
